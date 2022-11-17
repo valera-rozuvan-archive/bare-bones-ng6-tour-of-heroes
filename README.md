@@ -1,5 +1,11 @@
 # AngularTourOfHeroes
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/experiments](https://github.com/valera-rozuvan/experiments). This repo is archived for historic purposes (to preserve commit history). Navigate over to [experiments/bare-bones-ng6-tour-of-heroes](https://github.com/valera-rozuvan/experiments/tree/main/bare-bones-ng6-tour-of-heroes) to see updates (if any).
+
+## introduction
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
